@@ -1,0 +1,27 @@
+name: madi
+channels:
+  - defaults
+dependencies:
+  - python=3.7.6
+  - cudatoolkit=9.2
+  - absl-py
+  - pyparsing
+  - pip
+  - pip:
+    - numpy==1.19.5
+    - torch==1.7.1
+    - torchvision==0.8.2
+    - gym==0.21.0
+    - importlib-metadata<5.0
+    - pillow==6.2.0
+    - termcolor
+    - imageio
+    - imageio-ffmpeg
+    - opencv-python
+    - xmltodict
+    - tqdm
+    - einops
+    - kornia
+    - wandb
+    - captum
+    - pandas
