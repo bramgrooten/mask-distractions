@@ -1,6 +1,8 @@
 # MaDi
 _Learning to **Ma**sk **Di**stractions for Generalization in Visual Deep Reinforcement Learning_
 
+Paper: [arxiv.org/abs/2312.15339](https://arxiv.org/abs/2312.15339)
+
 See our [40-second video](https://www.youtube.com/watch?v=2oImF0h1k48) to get an overview.
 
 ![madi_overview](figures/MaDi_overview.png)
@@ -16,7 +18,7 @@ the [Distracting Control Suite](https://arxiv.org/abs/2101.02722).
 
 This repository contains implementations of the following algorithms in a unified framework:
 
-- **MaDi** (ours)
+- [**MaDi** (ours: Grooten et al., 2023)](https://arxiv.org/abs/2312.15339)
 - [SGQN (Bertoin et al., 2022)](https://arxiv.org/abs/2209.09203)
 - [SVEA (Hansen et al., 2021)](https://arxiv.org/abs/2107.00644)
 - [SODA (Hansen and Wang, 2021)](https://arxiv.org/abs/2011.13389)
