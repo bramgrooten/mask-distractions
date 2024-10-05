@@ -1,9 +1,17 @@
 # MaDi
 _Learning to **Ma**sk **Di**stractions for Generalization in Visual Deep Reinforcement Learning_
 
-Paper: [arxiv.org/abs/2312.15339](https://arxiv.org/abs/2312.15339)
-
-See our [40-second video](https://www.youtube.com/watch?v=2oImF0h1k48) to get an overview.
+See our [paper](https://arxiv.org/abs/2312.15339) and [40-second video](https://www.youtube.com/watch?v=2oImF0h1k48).
+If you use this code, please cite:
+```
+@article{grooten2024madi,
+    title={{MaDi: Learning to Mask Distractions for Generalization in Visual Deep Reinforcement Learning}}, 
+    author={Grooten, Bram and Tomilin, Tristan and Vasan, Gautham and Taylor, Matthew E and Mahmood, A Rupam and Fang, Meng and Pechenizkiy, Mykola and Mocanu, Decebal Constantin},
+    year={2024},
+    journal={The 23rd International Conference on Autonomous Agents and Multiagent Systems (AAMAS)},
+    note={URL: \url{https://arxiv.org/abs/2312.15339}}
+}
+```
 
 ![madi_overview](figures/MaDi_overview.png)
 
