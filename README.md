@@ -145,8 +145,7 @@ Results for `video_hard` are shown below:
 ![soda table results](figures/results_video_hard.png)
 
 See our paper for additional results. 
-For reproducibility, we provide the full results for all methods and environments 
-as a [zip file here](https://www.dropbox.com/scl/fi/l9y70x6zaijz4wftfbx7j/data_experiments_MaDi.zip?rlkey=ryrzfev13m8an4njwk71ba2pw&dl=0).
+For reproducibility, we provide the full results for all methods and environments [here](https://drive.google.com/drive/folders/1RkEoKlZTHFroN4A2YzF1AAJuFdo86cjW?usp=sharing).
 
 ## Robotic experiments
 
